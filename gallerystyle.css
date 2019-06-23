@@ -1,0 +1,115 @@
+.background{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	position: fixed;
+	left: 0;
+	right: 0;
+	background-image: url("file:///C:/Users/DELL/Desktop/train_railway_art_127436_1920x1080.jpg");
+	filter: blur(8px);
+	display: inline;
+	z-index: 1;
+}
+.left{
+	width: 40%;
+	height: 80%;
+	border-radius: 50%;
+	border: 1px solid #C4C4C4;
+	z-index: 2;
+	position: fixed;
+	margin-left: -267px;
+	margin-top: 90px;
+	background-image: url("file:///C:/Users/DELL/Desktop/train_railway_art_127436_1920x1080.jpg");
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #000;
+}
+.inside{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	z-index: 3;
+	border: 1px solid #fff;
+	position: fixed;
+	background-color: #636363;
+	margin-top: 157px;
+    margin-left: 240px;
+}
+.sym1{
+	font-size: 40px;
+	margin: 10px;
+	color: #fff;
+}
+.inside1{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	z-index: 3;
+	border: 1px solid #fff;
+	position: fixed;
+	background-color: #636363;
+	margin-top: 271px;
+    margin-left: 304px;
+}
+.sym2{
+	font-size: 40px;
+	margin: 10px;
+	color: #fff;
+	margin-left: 13px; 
+}
+.inside2{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	z-index: 3;
+	border: 1px solid #fff;
+	position: fixed;
+	background-color: #636363;
+	margin-top: 411px;
+    margin-left: 314px;
+}
+.sym3{
+	font-size: 40px;
+	color: #fff;
+	margin-left: 11px;
+	margin-top: 10px;
+}
+.inside3{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	z-index: 3;
+	border: 1px solid #fff;
+	position: fixed;
+	background-color: #636363;
+	margin-top: 547px;
+    margin-left: 250px;
+}
+.sym4{
+	font-size: 40px;
+	color: #fff;
+	margin-left: 11px;
+	margin-top: 10px;
+}
+.content{
+	width: 500px;
+	height: 150px;
+	border: 1px solid #fff;
+	z-index: 50;
+	margin-left: 600px;
+	position: absolute;
+	margin-top: 290px;
+}
+p{
+	text-align: center;
+	color: #fff;
+	font-size: 40px;
+}
+.e{
+	font-size: 30px;
+}
+.e2{
+	font-size: 30px;
+}
